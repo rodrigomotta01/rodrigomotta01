@@ -1,7 +1,7 @@
 # 👋 Olá, Eu sou o Rodrigo Motta!
-  <a href="https://github.com/rodrigomotta0/convoychat">
-    <img height=65rem align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomotta01&hide_progress=true&theme=tokyonight" />
-  </a>
+  
+  <img height=65rem align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomotta01&hide_progress=true&theme=tokyonight" />
+  
   🖥️ Python Django Web Developer<br>
   📖 Ciência da Computação (UFRRJ)<br>
   📩 Email: rodrigo.motta357@gmail.com
