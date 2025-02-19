@@ -1,6 +1,6 @@
 # 👋 Olá, Eu sou o Rodrigo Motta!
   
-  <img height=95rem align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomotta01&layout=compact&theme=tokyonight"/>
+  <img height=80rem align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomotta01&layout=compact&theme=tokyonight"/>
   
   🖥️ Python Django Web Developer<br>
   📖 Ciência da Computação (UFRRJ)<br>
