@@ -1,4 +1,4 @@
-# 👋 Olá, Eu sou o Rodrigo Motta!
+<h1>👋 Olá, Eu sou o Rodrigo Motta!</h1>
   
   <img height=125rem align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomotta01&layout=compact&theme=tokyonight"/>
   
@@ -10,7 +10,9 @@
   
   <a href = "mailto:rodrigo.motta357@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <br>
-##
+  <br>
+
+<h2>🖥 Tecnologias:</h2>
 
 <div style="display: inline_block"><br>
 
